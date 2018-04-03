@@ -62,9 +62,6 @@ Setting up logrotate for additional Nginx logs, with postrotate script (assuming
 
 ## Author Information
 
-* [nickhammond](https://github.com/nickhammond) | [www](http://www.nickhammond.com) | [twitter](http://twitter.com/nickhammond)
-* [bigjust](https://github.com/bigjust)
-* [steenzout](https://github.com/steenzout)
-* [jeancornic](https://github.com/jeancornic)
-* [duhast](https://github.com/duhast)
-* [kagux](https://github.com/kagux)
+Steamulo - www.steamulo.com
+
+Forked from [nickhammond](https://github.com/nickhammond) | [www](http://www.nickhammond.com) | [twitter](http://twitter.com/nickhammond)
